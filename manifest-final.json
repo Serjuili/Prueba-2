@@ -1,27 +1,22 @@
 {
-  "background_color": "#ffffff",
-  "dir": "ltr",
+  "name": "Prueba-2",
+  "short_name": "Prueba2",
+  "start_url": "index.html",
   "display": "standalone",
-  "name": "Prueba",
-  "orientation": "portrait",
-  "scope": "https://serjuili.github.io/Prueba-2/",
-  "short_name": "Prueba",
-  "start_url": "https://serjuili.github.io/Prueba-2/",
+  "background_color": "#ffffff",
   "theme_color": "#000000",
-  "id": "id"
-}
-
-{
   "icons": [
     {
-      "src": "icon.png",
-      "sizes": "192x192",
-      "type": "image/png"
+      "src": "https://serjuili.github.io/Prueba-2/icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
     },
     {
-      "src": "icon.png",
-      "sizes": "512x512",
-      "type": "image/png"
+      "src": "https://serjuili.github.io/Prueba-2/icon.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
     }
   ]
 }
