@@ -1,0 +1,12 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Prueba",
+  "orientation": "portrait",
+  "scope": "https://serjuili.github.io/Prueba-2/",
+  "short_name": "Prueba",
+  "start_url": "https://serjuili.github.io/Prueba-2/",
+  "theme_color": "#000000",
+  "id": "id"
+}
